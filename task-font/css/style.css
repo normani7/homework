@@ -1,0 +1,37 @@
+.first-text {
+    font-family: 'Open Sans', 'Arial',  sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 300;
+    font-style: italic;
+}   
+
+.second-text {
+    text-decoration: line-through;
+    font-weight: 650;
+    line-height: 25px;
+}
+
+.third-text {
+    text-transform: uppercase;
+    font-weight: 520;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.fourth-text {
+    text-decoration: overline;
+    text-decoration-style: wavy;
+    word-spacing: 30px;
+    text-decoration-color: rgb(10, 10, 35);
+    text-shadow: 2px 2px 4px #1f0808;
+
+}
+
+.fifth-text {
+    letter-spacing: 2px;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
