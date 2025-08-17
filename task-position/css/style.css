@@ -1,0 +1,29 @@
+body {
+    font-size: 20px;
+    background: rgb(49, 45, 45);
+    color: #fff;
+}
+
+.inner {
+    padding: 700px;
+}
+
+.gray-block {
+    background: #C2BDBD;
+    position: fixed;
+    border-radius: 15px;
+    height: 100px;
+    top: 70%;
+    left: 50%;
+    right: 50px;
+}
+
+.circle {
+    background: #dc0f0f;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    left: 17%;
+    bottom: 50%;
+}
